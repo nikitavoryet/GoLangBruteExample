@@ -22,8 +22,7 @@ import (
 
 const nameFile = "base.txt"
 
-// const bruteUrl = "https://localhost/authExample/index.php"
-const bruteUrl = "https://vns70.tk/auth/"
+const bruteUrl = "https://localhost/authExample/index.php"
 
 func main() {
 	fmt.Println("Starting Example Brute - GoLang. By Nikita Vtorushin<n.vtorushin@inbox.ru>")
