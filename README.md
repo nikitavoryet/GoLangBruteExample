@@ -10,12 +10,6 @@ To work, you need to set constants and fill in the base
 
 ![](https://dl3.joxi.net/drive/2021/04/17/0047/1226/3105994/94/7f246332e4.jpg)
 
-Donate:
-
-    BTC:  192TC7d7ZRYJQbQnAWvMpkccnBNQN1ae6R
-    ETH:  0x7d1082d952f4d584ae2910e14018f4dce7495c74
-    LTC:  MLx6wmFjXfBTKj6JfB5NXaiKjNLeEntRoZ
-    DOGE: DHCjW71EWBzvv43XPXVJc491brcBJXXq88
 author: 
     
     Name:          Nikita
